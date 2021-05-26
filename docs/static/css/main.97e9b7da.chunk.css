@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box}.wrapper{width:100vw;height:100vh;background:radial-gradient(#9198e5,#3467f3)}.app,.wrapper{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center}.app{-webkit-flex-direction:column;flex-direction:column;width:50%;background-color:#dcdcdc;border:1px solid #000;border-radius:10px;margin:0 auto;padding:20px}textarea{border:3px solid #000;width:90%;margin:20px auto;outline:none;height:200px;padding:10px}button{padding:10px 20px;margin:10px 0}
+/*# sourceMappingURL=main.97e9b7da.chunk.css.map */
